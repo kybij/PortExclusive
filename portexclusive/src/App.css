@@ -1,6 +1,37 @@
 
  @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300&display=swap');
 
+.headerContainer {
+background:black;
+padding: 0 30px;
+height: 110px;
+color: #fff;
+}
+
+.header {
+  font-family:'Roboto Mono', monospace ;
+  padding-top: 2rem;
+}
+
+.navContainer {
+  background:black;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row; 
+}
+
+.nav {
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  padding-left: 30rem;
+  margin-bottom: 0;
+  list-style: none
+}
+
+
+
 
  .sliderimg {
    width: 60%;
@@ -28,8 +59,26 @@
  
  a {
    
-   color: black;
+   color:rgb(218, 145, 10);
    font-size: 20px;
+   font-weight: 500;
+   font-family:'Roboto Mono', monospace ;
    text-decoration: none;
- } 
- 
+   padding-left: 3rem;
+  } 
+
+  .about {
+    color:#fff;
+font-size: 48px;
+text-align: center;
+font-family:'Roboto Mono', monospace;
+padding-bottom: 4rem;
+  }
+.me {
+  margin-top: 24px;
+  font-family:'Roboto Mono', monospace;
+color: #fff;
+font-size: 20px;
+text-align: center;
+max-width: 600px;
+} 

@@ -29,9 +29,9 @@ object-fit: cover;
 background: #232a34`
 
 export const HomeContent = styled.div`
-max-width: 1200px;
+max-width: 1500px;
 position: absolute;
-padding: 8px 24px;
+padding: 2px 24px;
 display: flex;
 flex-direction: column;
 align-items: center;
@@ -41,6 +41,7 @@ export const HomeH1 = styled.h1`
 color:#fff;
 font-size: 48px;
 text-align: center;
+font-family:'Roboto Mono', monospace ;
 `
 
 export const HomeH4 = styled.h4`
@@ -51,11 +52,13 @@ text-align: center;`
 export const HomeP = styled.p`
 margin-top: 24px;
 color: #fff;
-font-size: 24px,
+font-size: 32px,
 text-align: center;
 max-width: 600px;
 `
 
 export const ImgBg = styled.img`
 width: 25%;
-border-radius: 10px`
+border-radius: 10px;
+padding-bottom: 3rem;
+`

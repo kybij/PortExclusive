@@ -3,6 +3,7 @@ import React from 'react';
 function Nav(props) {
   const tabs = ['About', 'Project', 'Contact', 'Resume'];
   return (
+    <div class= "navContainer">
     <ul className="nav nav-tabs">
       {tabs.map(tab => (
         <li className="nav-item" key={tab}>
@@ -18,6 +19,7 @@ function Nav(props) {
         </li>
       ))}
     </ul>
+    </div>
   );
 }
 

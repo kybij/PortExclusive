@@ -1,12 +1,12 @@
 import React from 'react'
-// import { HeaderContainer } from './Headerstyes'
+import '../../App.css'
 
 
 
 const Header = () => {
     return (
-    <div>
-        <h1>header</h1>
+    <div class= "headerContainer">
+        <h1 class= "header">Kylee Bijerring</h1>
     </div>
     )
 }
