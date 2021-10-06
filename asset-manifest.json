@@ -1,23 +1,32 @@
 {
   "files": {
-    "main.css": "/react-PortExclusive/static/css/main.a617e044.chunk.css",
-    "main.js": "/react-PortExclusive/static/js/main.0f6c0fcc.chunk.js",
-    "main.js.map": "/react-PortExclusive/static/js/main.0f6c0fcc.chunk.js.map",
-    "runtime-main.js": "/react-PortExclusive/static/js/runtime-main.a4db769f.js",
-    "runtime-main.js.map": "/react-PortExclusive/static/js/runtime-main.a4db769f.js.map",
-    "static/js/2.e82b6511.chunk.js": "/react-PortExclusive/static/js/2.e82b6511.chunk.js",
-    "static/js/2.e82b6511.chunk.js.map": "/react-PortExclusive/static/js/2.e82b6511.chunk.js.map",
-    "static/js/3.c2f3db2e.chunk.js": "/react-PortExclusive/static/js/3.c2f3db2e.chunk.js",
-    "static/js/3.c2f3db2e.chunk.js.map": "/react-PortExclusive/static/js/3.c2f3db2e.chunk.js.map",
+    "main.css": "/react-PortExclusive/static/css/main.f41ef320.chunk.css",
+    "main.js": "/react-PortExclusive/static/js/main.3644075b.chunk.js",
+    "main.js.map": "/react-PortExclusive/static/js/main.3644075b.chunk.js.map",
+    "runtime-main.js": "/react-PortExclusive/static/js/runtime-main.a0a73656.js",
+    "runtime-main.js.map": "/react-PortExclusive/static/js/runtime-main.a0a73656.js.map",
+    "static/css/2.af3ab7ac.chunk.css": "/react-PortExclusive/static/css/2.af3ab7ac.chunk.css",
+    "static/js/2.b9bb0253.chunk.js": "/react-PortExclusive/static/js/2.b9bb0253.chunk.js",
+    "static/js/2.b9bb0253.chunk.js.map": "/react-PortExclusive/static/js/2.b9bb0253.chunk.js.map",
+    "static/js/3.8473fefb.chunk.js": "/react-PortExclusive/static/js/3.8473fefb.chunk.js",
+    "static/js/3.8473fefb.chunk.js.map": "/react-PortExclusive/static/js/3.8473fefb.chunk.js.map",
     "index.html": "/react-PortExclusive/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/react-PortExclusive/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.e82b6511.chunk.js.LICENSE.txt": "/react-PortExclusive/static/js/2.e82b6511.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/react-PortExclusive/static/media/logo.6ce24c58.svg"
+    "static/css/2.af3ab7ac.chunk.css.map": "/react-PortExclusive/static/css/2.af3ab7ac.chunk.css.map",
+    "static/css/main.f41ef320.chunk.css.map": "/react-PortExclusive/static/css/main.f41ef320.chunk.css.map",
+    "static/js/2.b9bb0253.chunk.js.LICENSE.txt": "/react-PortExclusive/static/js/2.b9bb0253.chunk.js.LICENSE.txt",
+    "static/media/image1.ec9fb120.png": "/react-PortExclusive/static/media/image1.ec9fb120.png",
+    "static/media/image2.6ca1d7b3.png": "/react-PortExclusive/static/media/image2.6ca1d7b3.png",
+    "static/media/image3.661ddf7d.png": "/react-PortExclusive/static/media/image3.661ddf7d.png",
+    "static/media/image4.2b3da89d.png": "/react-PortExclusive/static/media/image4.2b3da89d.png",
+    "static/media/image5.90a385f1.png": "/react-PortExclusive/static/media/image5.90a385f1.png",
+    "static/media/image6.bbf69e7d.png": "/react-PortExclusive/static/media/image6.bbf69e7d.png",
+    "static/media/video.910e8a45.mp4": "/react-PortExclusive/static/media/video.910e8a45.mp4"
   },
   "entrypoints": [
-    "static/js/runtime-main.a4db769f.js",
-    "static/js/2.e82b6511.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.0f6c0fcc.chunk.js"
+    "static/js/runtime-main.a0a73656.js",
+    "static/css/2.af3ab7ac.chunk.css",
+    "static/js/2.b9bb0253.chunk.js",
+    "static/css/main.f41ef320.chunk.css",
+    "static/js/main.3644075b.chunk.js"
   ]
 }
