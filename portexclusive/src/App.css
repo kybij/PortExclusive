@@ -30,9 +30,9 @@
 }
 
 .sliderimg {
-  width: 60%;
-  height: 500px;
-  margin-left: 19rem;
+  width: 50%;
+  height: 400px;
+  margin-left: 23rem;
   padding-top: 10rem;
   border-radius: 6px;
 }
@@ -42,7 +42,7 @@
   color: #fff;
   font-size: 35px;
   font-family: "Roboto Mono", monospace;
-  top: 60px;
+  top: 25px;
 }
 
 .front {
@@ -100,6 +100,30 @@ ul {
   color: #fff;
 }
 
+.contactTitle {
+  color: #fff;
+  font-size: 2.5rem;
+  font-family: "Roboto Mono", monospace;
+  position: absolute;
+  top: 30px;
+}
+
+.contactItem {
+  color: #fff;
+  font-size: 1.5rem;
+  font-family: "Roboto Mono", monospace;
+}
+
+.contactInput {
+  padding: 5px;
+  
+}
+
+.error-text {
+  color:rgb(235, 163, 30);
+  font-family: "Roboto Mono", monospace;
+}
+
 footer a {
   color: #fff;
 }
@@ -132,6 +156,6 @@ a {
 .resumeButton {
   position: absolute;
   top: 100px;
-  left: 800px;
+  left: 630px;
 }
 
