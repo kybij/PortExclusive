@@ -1,7 +1,7 @@
 import styled from 'styled-components'
 
 export const ProjectContainer = styled.div`
-background: #000000d0;
+background: black;
 display:flex;
 justify-content: center;
 align-items: center;

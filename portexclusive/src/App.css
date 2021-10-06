@@ -1,24 +1,23 @@
-
- @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300&display=swap");
 
 .headerContainer {
-background:black;
-padding: 0 30px;
-height: 110px;
-color: #fff;
+  background: black;
+  padding: 0 30px;
+  height: 110px;
+  color: #fff;
 }
 
 .header {
-  font-family:'Roboto Mono', monospace ;
+  font-family: "Roboto Mono", monospace;
   padding-top: 2rem;
 }
 
 .navContainer {
-  background:black;
+  background: black;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  flex-direction: row; 
+  flex-direction: row;
 }
 
 .nav {
@@ -27,59 +26,103 @@ color: #fff;
   flex-wrap: wrap;
   padding-left: 30rem;
   margin-bottom: 0;
-  list-style: none
+  list-style: none;
 }
 
- .sliderimg {
-   width: 60%;
-   height: 500px;
-   margin-left: 19rem;
-   padding-top: 10rem;
-   border-radius: 6px
+.sliderimg {
+  width: 60%;
+  height: 500px;
+  margin-left: 19rem;
+  padding-top: 10rem;
+  border-radius: 6px;
 }
- 
+
+.resume {
+  position: absolute;
+  color: #fff;
+  font-size: 35px;
+  font-family: "Roboto Mono", monospace;
+  top: 60px;
+
+}
+.front {
+  position: absolute;
+  top: 150px;
+  left: 360px;
+  color: #fff;
+  font-size: 20px;
+  font-family: "Roboto Mono", monospace;
+}
+
+.frontend {
+  position: absolute;
+  top: 190px;
+  left: 440px;
+  color: #fff;
+  font-size: 20px;
+  font-family: "Roboto Mono", monospace;
+}
+.back {
+  position: absolute;
+  color: #fff;
+  top: 150px;
+  left: 840px;
+  font-size: 20px;
+  font-family: "Roboto Mono", monospace;
+}
+
+.backend {
+  position: absolute;
+  top: 190px;
+  left: 920px;
+  color: #fff;
+  font-size: 20px;
+  font-family: "Roboto Mono", monospace;
+}
+
+ul {
+  color: #fff;
+  text-decoration: none;
+}
 .project {
-   position: absolute;
-   top: 20px;
-   font-size: 2.5rem;
-   font-family:'Roboto Mono', monospace ;
-   
- }
+  position: absolute;
+  top: 20px;
+  font-size: 2.5rem;
+  font-family: "Roboto Mono", monospace;
+}
 
- 
- .contact {
-   position: absolute;
-   top: 12px;
-   font-family:'Roboto Mono', monospace ;
-   color: #fff;
- }
- 
- footer a {
-   color: #fff;
- }
- 
- a {
-   
-   color:rgb(218, 145, 10);
-   font-size: 20px;
-   font-weight: 500;
-   font-family:'Roboto Mono', monospace ;
-   text-decoration: none;
-   padding-left: 3rem;
-  } 
+.contact {
+  position: absolute;
+  top: 12px;
+  font-family: "Roboto Mono", monospace;
+  color: #fff;
+}
 
-  .about {
-    color:#fff;
-font-size: 48px;
-text-align: center;
-font-family:'Roboto Mono', monospace;
-padding-bottom: 4rem;
-  }
+footer a {
+  color: #fff;
+}
+
+a {
+  color: rgb(218, 145, 10);
+  font-size: 20px;
+  font-weight: 500;
+  font-family: "Roboto Mono", monospace;
+  text-decoration: none;
+  padding-left: 3rem;
+}
+
+.about {
+  color: #fff;
+  font-size: 48px;
+  text-align: center;
+  font-family: "Roboto Mono", monospace;
+  padding-bottom: 4rem;
+}
 .me {
   margin-top: 24px;
-  font-family:'Roboto Mono', monospace;
-color: #fff;
-font-size: 20px;
-text-align: center;
-max-width: 600px;
-} 
+  font-family: "Roboto Mono", monospace;
+  color: #fff;
+  font-size: 20px;
+  text-align: center;
+  max-width: 600px;
+}

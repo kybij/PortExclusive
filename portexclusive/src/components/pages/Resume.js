@@ -1,7 +1,9 @@
 import React from "react";
-
-const Resume = () => (
- <div></div>
+import Resume from '../resume'
+const Resumes = () => (
+ <div>
+     <Resume />
+ </div>
 );
 
-export default Resume;
+export default Resumes;

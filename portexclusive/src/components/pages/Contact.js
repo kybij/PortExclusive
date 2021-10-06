@@ -1,16 +1,11 @@
 import React from "react";
-// import {Container, Row, Col}from "react-bootstrap";
+import Contact from "../contact";
 
-function Contact() {
-  
-  return (
-    
-    <section className="contact-container">
-      <h3>Contact</h3>
- 
-    </section>
-    
-  );
-}
 
-export default Contact;
+const Contacts = () => (
+<div>
+    <Contact />
+</div>
+);
+
+export default Contacts;

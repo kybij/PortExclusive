@@ -1,14 +1,14 @@
-// import React from 'react'
-// import '../../App.css'
-// import {ContactContainer} from './Contactstyles'
+import React from 'react'
+import '../../App.css'
+import {ContactContainer} from './Contactstyles'
 
 
-// const Contact = () => {
-//     return (
-//         <ContactContainer>
-// <h1 className = "contact">Contact</h1>
-//         </ContactContainer>
-//     )
-// }
+const Contact = () => {
+    return (
+        <ContactContainer>
+<h1 className = "contact">Contact</h1>
+        </ContactContainer>
+    )
+}
 
-// export default Contact
+export default Contact
