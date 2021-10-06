@@ -30,22 +30,23 @@ color: #fff;
   list-style: none
 }
 
-
-
-
  .sliderimg {
    width: 60%;
    height: 500px;
-   margin-left: 25rem;
-   
- }
+   margin-left: 19rem;
+   padding-top: 10rem;
+   border-radius: 6px
+}
  
- .project {
+.project {
    position: absolute;
-   top: 12px;
+   top: 20px;
+   font-size: 2.5rem;
    font-family:'Roboto Mono', monospace ;
    
  }
+
+ 
  .contact {
    position: absolute;
    top: 12px;

@@ -1,6 +1,6 @@
 import React from 'react'
 import Video from '../../video/video.mp4'
-import { HomeContainer, HomeBg, VideoBg, ImgBg, HomeContent, HomeP } from './Homestyle'
+import { HomeContainer, HomeBg, VideoBg, ImgBg, HomeContent } from './Homestyle'
 
 
 const Home = () => {
