@@ -1,7 +1,7 @@
 import React from 'react';
 
 function Nav(props) {
-  const tabs = ['About', 'Project', 'Contact', 'Resume'];
+  const tabs = ['About', 'Projects', 'Contact', 'Resume'];
   return (
     <div class= "navContainer">
     <ul className="nav nav-tabs">
